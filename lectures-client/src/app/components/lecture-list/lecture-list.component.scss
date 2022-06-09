@@ -1,0 +1,41 @@
+table{
+    width: 100%;
+}
+
+.mat-header-cell {
+    color: black;
+    font-size: large;
+    background-color: blue;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;  
+}
+   
+  .mat-cell {
+    color: blue;   
+    background-color: rgba(142, 140, 140, 0.385);
+}
+
+button{
+    margin-left: 100px;
+}
+
+  .mat-row {
+    height: auto;
+  }
+
+  .mat-cell {
+    padding: 20px 50px 20px 50px;
+    font-size: 14px;
+    min-height: 48px;
+    text-align: center;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+   }
+  .mat-header-cell{
+    padding: 20px 50px 20px 50px;
+    text-align: center;
+  }
+ 
+

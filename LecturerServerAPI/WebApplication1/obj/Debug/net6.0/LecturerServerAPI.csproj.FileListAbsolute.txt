@@ -1,0 +1,96 @@
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\db.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Languages.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.exe
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.deps.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.runtimeconfig.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.pdb
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.AssemblyReference.cache
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.AssemblyInfoInputs.cache
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.AssemblyInfo.cs
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.CoreCompileInputs.cache
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\LecturerServerAPI.styles.css
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.CopyComplete
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.pdb
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.genruntimeconfig.cache
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\WebApplication1\WebApplication1\bin\Debug\net6.0\Lecturers.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\appsettings.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\db.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Languages.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Lecturers.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.exe
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.deps.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.runtimeconfig.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.pdb
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.AssemblyReference.cache
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.AssemblyInfoInputs.cache
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.AssemblyInfo.cs
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.CoreCompileInputs.cache
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\LecturerServerAPI.styles.css
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.CopyComplete
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\refint\LecturerServerAPI.dll
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.pdb
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.genruntimeconfig.cache
+F:\קבצים שלי\מחשבים\HackerU\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\ref\LecturerServerAPI.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\db.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Languages.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Lecturers.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.exe
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.deps.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.runtimeconfig.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\LecturerServerAPI.pdb
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.AssemblyInfo.cs
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\LecturerServerAPI.styles.css
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.csproj.CopyComplete
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\refint\LecturerServerAPI.dll
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.pdb
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\LecturerServerAPI.genruntimeconfig.cache
+C:\Users\Owner\Desktop\LectorersProject\LecturerServerAPI\WebApplication1\obj\Debug\net6.0\ref\LecturerServerAPI.dll
