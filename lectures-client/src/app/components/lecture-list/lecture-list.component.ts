@@ -23,17 +23,19 @@ export class LectureListComponent implements OnInit {
     //this.getLanguages();
     this.lecturerService.getLanguages()
       .subscribe(languages => this.languages = languages);
+    this.lecturerService.getLectures()
+      .subscribe(lectures => this.lectures = lectures);
   }
 
   onClick(){ 
-    if (this.selectedValue > 0){
-      this.lecturerService.getLecturesByLanguageId(this.selectedValue)
+    this.lecturerService.getLectures()
         .subscribe(lectures => this.lectures = lectures);
-    }
-    else{
-      
-      this.lecturerService.getLectures()
+    this.selectedValue = -1;
+  }
+  
+  // the filter is on the server side
+  onLanguageChange(){
+    this.lecturerService.getLecturesByLanguageId(this.selectedValue)
         .subscribe(lectures => this.lectures = lectures);
-    }   
-  }    
+  }
 }

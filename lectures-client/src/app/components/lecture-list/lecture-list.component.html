@@ -1,17 +1,17 @@
 
 
     <mat-form-field appearance="fill">
-        <mat-label>Choose language</mat-label>
-        <mat-select  name="language" [(value)]="selectedValue">
+        <mat-label>Filter By Language</mat-label>
+        <mat-select  name="language" [(value)]="selectedValue" (selectionChange)="onLanguageChange()">
         <mat-option *ngFor="let language of languages" [value]="language.id">
             {{language.name}}
         </mat-option>
         </mat-select>
     </mat-form-field>
-    <button mat-raised-button color="primary" (click)="onClick()">Get Lectures</button>
+    <button mat-raised-button color="primary" (click)="onClick()">Get All Lectures</button>
 
 
-    <mat-table [dataSource]="lectures" class="mat-elevation-z8" appearance="fill">
+    <mat-table [dataSource]="lectures" >
         <!-- id Column -->
         <ng-container matColumnDef="id">
           <th mat-header-cell *matHeaderCellDef> No. </th>
